@@ -1,0 +1,47 @@
+
+
+
+h1, h2, h3, h4 {
+	font-family: "Bebas Neue", serif; 
+}
+h1 {
+  color: #001429;
+  text-align: center;
+  font-size: 60px;
+}
+h2 {
+  color: #3f5277;
+  text-align: center;
+  text-decoration: underline;
+  font-size: 35px;
+}
+h3 {
+  font-size: 25px;
+}
+h4 {
+  font-size: 20px;
+}
+body {
+  background-color: #8c9dad;
+}
+h3, h4, h5, p {
+  text-align: center;
+  color: white;
+}
+img {
+  display: block;
+  margin: auto;
+  border-radius: 50%;
+}
+a:link, a:visited {color: lightblue;
+	text-decoration: none; }
+a:hover { text-decoration: underline; }
+a:active {color: lightblue;
+	text-decoration: none;}
+ul {
+  list-style-position: inside;
+  list-style-image: url('starbullet.png');
+  color: white;
+  text-align: center;
+}
+
